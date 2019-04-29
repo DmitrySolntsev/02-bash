@@ -1,0 +1,10 @@
+file1.txt
+file.txt
+goodmorning-todo.sh
+list-txt.sh
+list-write-count.sh
+ls.txt
+make-shared.sh
+README
+sort-env.sh
+TODO
